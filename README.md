@@ -1,0 +1,1 @@
+This repository contains various data analysis projects completed as part of an internship with Oasis Infobyte. Each project focuses on different aspects of data analysis, providing insights and actionable recommendations based on the data.
